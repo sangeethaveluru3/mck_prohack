@@ -1,4 +1,4 @@
-# McKinsey Prohack Hackathon - TheGenerals
+# McKinsey Prohack Hackathon
 
 ## Brief
 The aim of the [hackathon](https://prohack.org/) was to predict the composite index to measure the well-being of galaxies based on a number of features provided in the data givrn and then allocate 50000 zillion DSML units of energy from a star across the galaxies based on certain contraints to optimise their well-being. 
